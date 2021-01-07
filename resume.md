@@ -1,24 +1,26 @@
-# Your Name
+# Yuke Cao
 
-1234 Main St., City, State 12345
+email: yuke295@uw.edu
 
-(555) 555-5555
+Github: http://github.com/Yuke295
 
-your.name@example.com
+linkedin: http://www.linkedin.com/in/yuke-cao-261838191/
 
-http://www.example.com
+# About me
 
-http://www.linkedin.com/in/yourname
-
-# Summary
-
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+I am an undergraduate student at the University of Washington and majoring in geography data science. I am passionate about continuously learning technologies and interested in the GIS and Data Science fields. I have experience with web mapping design and data visualization by using different computer languages. I am also seeking opportunities where to grow knowledge in the data science area.
 
 # Work Experience (only last 10 years)
 
-## University Name 1 (City, State)
+Sep. 2020 to Present : Lab Assistant at Humanistic GIS Laboratory at UW, Seattle, WA
+- COVID-19: Novel Coronavirus Infection Map Project
+- Coastal Hazard Planning in Time project
 
-* [University 1][] description, particularly if not well-known.*
+Sep. 2019 to Aug. 2020 : Tutor / Teaching Assistant at Seattle Central College, Seattle, WA
+
+## Education
+
+* [University of Washington][] description, particularly if not well-known.*
 
 ** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
 
