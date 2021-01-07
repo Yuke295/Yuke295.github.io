@@ -20,7 +20,7 @@ Sep. 2019 to Aug. 2020 : Tutor / Teaching Assistant at Seattle Central College, 
 
 ## Education
 
-* [university1][] University of Washington*
+* [University of Washington][] *
 
 ** Undergraduate Student ** (Sep. 2020 - Jun. 2022)
 
@@ -28,12 +28,12 @@ Sep. 2019 to Aug. 2020 : Tutor / Teaching Assistant at Seattle Central College, 
 
 - Minor : Informatics
 
-*[University 2][] Seattle Central College*
+*[Seattle Central College][] *
 
 ** Undergraduate Student (Associate's Degree) ** (Sep. 2016 - Jun. 2019)
 
 - Major : Computer Programming **
 
 
-[University 1]: https://www.washington.edu/
-[University 2]: https://seattlecentral.edu/
+[University of Washington]: https://www.washington.edu/
+[Seattle Central College]: https://seattlecentral.edu/
