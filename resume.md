@@ -13,49 +13,27 @@ I am an undergraduate student at the University of Washington and majoring in ge
 # Work Experience (only last 10 years)
 
 Sep. 2020 to Present : Lab Assistant at Humanistic GIS Laboratory at UW, Seattle, WA
-- COVID-19: Novel Coronavirus Infection Map Project
-- Coastal Hazard Planning in Time project
+>- COVID-19: Novel Coronavirus Infection Map Project
+>- Coastal Hazard Planning in Time project
 
 Sep. 2019 to Aug. 2020 : Tutor / Teaching Assistant at Seattle Central College, Seattle, WA
 
 ## Education
 
-* [University of Washington][] description, particularly if not well-known.*
+* [university1][] University of Washington*
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+** Undergraduate Student ** (Sep. 2020 - Jun. 2022)
 
-Summary of your role
+- Major : Geographical Information Science
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- Minor : Informatics
 
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+*[University 2][] Seattle Central College*
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+** Undergraduate Student (Associate's Degree) ** (Sep. 2016 - Jun. 2019)
 
-Summary of your role
-
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- Major : Computer Programming **
 
 
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+[University 1]: https://www.washington.edu/
+[University 2]: https://seattlecentral.edu/
