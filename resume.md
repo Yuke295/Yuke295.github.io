@@ -18,10 +18,10 @@ Sep. 2020 to Present : Lab Assistant at Humanistic GIS Laboratory at UW, Seattle
 >- COVID-19: Novel Coronavirus Infection Map Project
 >- Coastal Hazard Planning in Time project
 
-![SCCC](/sites/default/files/2020-07/seattle-central-tigers.png)
+![SCCC](http://www.pseconline.org/wp-content/uploads/2017/03/scclogo-300x150.png)
 Sep. 2019 to Aug. 2020 : Tutor / Teaching Assistant at Seattle Central College, Seattle, WA
->-Developed, evaluated and debug academic projects before assigning to the class
->-Troubleshooted with students and provided students with technical support in Python/Java courses
+>- Developed, evaluated and debug academic projects before assigning to the class
+>- Troubleshooted with students and provided students with technical support in Python/Java courses
 
 ## Education
 
