@@ -12,23 +12,25 @@ I am an undergraduate student at the University of Washington and majoring in ge
 
 # Work Experience
 
-![HGIS](https://hgis.uw.edu/wp-content/uploads/2019/11/150-logo.png) Sep. 2020 to Present : Lab Assistant at Humanistic GIS Laboratory at UW, Seattle, WA
+![HGIS](https://hgis.uw.edu/wp-content/uploads/2019/11/hgislab-300x85.png)
+
+Sep. 2020 to Present : Lab Assistant at Humanistic GIS Laboratory at UW, Seattle, WA
 >- COVID-19: Novel Coronavirus Infection Map Project
 >- Coastal Hazard Planning in Time project
 
+![SCCC](/sites/default/files/2020-07/seattle-central-tigers.png)
 Sep. 2019 to Aug. 2020 : Tutor / Teaching Assistant at Seattle Central College, Seattle, WA
->Developed, evaluated and debug academic projects before assigning to the class
-
->Troubleshooted with students and provided students with technical support in Python/Java courses
+>-Developed, evaluated and debug academic projects before assigning to the class
+>-Troubleshooted with students and provided students with technical support in Python/Java courses
 
 ## Education
 
-**[University of Washington](https://www.washington.edu/)**
+[University of Washington](https://www.washington.edu/)
 
-Junior majoring in Geography Data Science (Sep. 2020 - Jun. 2022)
+Junior majoring in **Geography Data Science** (Sep. 2020 - Jun. 2022)
 
-    _Minor : Informatics_
+  >_Minor : Informatics_
 
-**[Seattle Central College](https://seattlecentral.edu/)**
+[Seattle Central College](https://seattlecentral.edu/)
 
-Associate's Degree in computer programming (Sep. 2016 - Jun. 2019)
+Associate's Degree in **computer programming** (Sep. 2016 - Jun. 2019)
