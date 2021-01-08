@@ -18,15 +18,17 @@ I am an undergraduate student at the University of Washington and majoring in ge
 
 Sep. 2019 to Aug. 2020 : Tutor / Teaching Assistant at Seattle Central College, Seattle, WA
 >Developed, evaluated and debug academic projects before assigning to the class
+
 >Troubleshooted with students and provided students with technical support in Python/Java courses
 
 ## Education
 
-**[University of Washington]**(https://www.washington.edu/)
+**[University of Washington](https://www.washington.edu/)**
 
 Junior majoring in Geography Data Science (Sep. 2020 - Jun. 2022)
+
     _Minor : Informatics_
 
-**[Seattle Central College]**(https://seattlecentral.edu/)
+**[Seattle Central College](https://seattlecentral.edu/)**
 
 Associate's Degree in computer programming (Sep. 2016 - Jun. 2019)
