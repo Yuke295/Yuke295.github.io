@@ -18,7 +18,7 @@ Sep. 2020 to Present : _Lab Assistant_ at Humanistic GIS Laboratory at UW, Seatt
 >- COVID-19: Novel Coronavirus Infection Map Project
 >- Coastal Hazard Planning in Time project
 
-![SCCC](LSN.PNG)
+![SCCC](../assets/img/LSN.PNG)
 
 Sep. 2019 to Aug. 2020 : _Tutor / Teaching Assistant_ at Seattle Central College, Seattle, WA
 >- Developed, evaluated and debug academic projects before assigning to the class
