@@ -15,7 +15,7 @@ I am an undergraduate student at the University of Washington and majoring in ge
 ![HGIS](https://hgis.uw.edu/wp-content/uploads/2019/11/hgislab-300x85.png)
 
 Sep. 2020 to Present : _Lab Assistant_ at Humanistic GIS Laboratory at UW, Seattle, WA
->- COVID-19: Novel Coronavirus Infection Map Project
+>- COVID-19 Risk to Washington Workers Project
 >- Coastal Hazard Planning in Time project
 
 ![SCCC](LSN.PNG)
