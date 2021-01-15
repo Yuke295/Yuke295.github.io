@@ -2,11 +2,11 @@
 
 email: yuke295@uw.edu
 
-Github: http://github.com/Yuke295
+Github: [http://github.com/Yuke295](http://github.com/Yuke295)
 
-linkedin: http://www.linkedin.com/in/yuke-cao-261838191/
+linkedin: [http://www.linkedin.com/in/yuke-cao-261838191/](http://www.linkedin.com/in/yuke-cao-261838191/)
 
-## About me :girl:
+## About me
 
 I am an undergraduate student at the University of Washington and majoring in geography data science. I am passionate about continuously learning technologies and interested in the GIS and Data Science fields. I have experience with web mapping design and data visualization by using different computer languages. I am also seeking opportunities where to grow knowledge in the data science area.
 
